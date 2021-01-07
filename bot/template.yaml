@@ -11,7 +11,7 @@ Globals:
     Timeout: 3
     Environment:
       Variables:
-        TELE_TOKEN: 1006501539:AAHMR77KP8Vxf_7WsvwH5aprzRi_rZlHmK8
+        TELE_TOKEN: {BOT_TOKEN}
 
 Resources:
   HelloWorldFunction:
